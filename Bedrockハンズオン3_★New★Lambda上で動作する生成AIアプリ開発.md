@@ -253,7 +253,6 @@ def lambda_handler(event, context):
 ---
 
 ## ２．フロントになんか作ってLambdaを実行できるようにする
-★どうやるか検討中★  
 ・Slackから  
 ・LINEから  
 
